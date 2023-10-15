@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola 👋 Soy Mariana!
 
-<!--
-**Maarlopez/Maarlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Como QA Engineer enfocada en la mejora continua y en constante aprendizaje de metodologías ágiles, busco adquirir nuevos conocimientos en testing manual y testing automation para contribuir en el avance tecnológico en el campo de la informática.
+Como estudiante de la Universidad Nacional Arturo Jauretche, gran parte de los repositorios forman parte de mi aprendizaje.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+💹 Github Stats
+
+![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maarlopez&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadlawand087&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
