@@ -11,4 +11,4 @@ Como estudiante de la Universidad Nacional Arturo Jauretche, gran parte de los r
 
 ![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maarlopez&show_icons=true&theme=midnight-purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maarlopez&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maarlopez&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
